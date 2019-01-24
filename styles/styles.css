@@ -1,0 +1,23 @@
+.testClass.testClass2 {
+  background-color: yellow;
+}
+.testClass2 {
+  background-color: brown;
+}
+
+.testClass .testClass2 {
+  background-color: green
+}
+
+#testId{
+  background-color: red;
+}
+
+#cardTitle {
+  font-size:25px;
+  padding:0 !important;
+}
+
+#paragraph{
+  font-size: 36px;
+}
